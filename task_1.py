@@ -1,5 +1,5 @@
-Mapex = ['Allan', 'Jimm', 'Liza', 'John']
-Eleks = ['Dean', 'Sam', 'Ben', 'David']
-Toshiba = Eleks.copy()
-Eleks.clear()
-print(Mapex, Eleks, Toshiba)
+mapex = ['Allan', 'Jimm', 'Liza', 'John']
+eleks = ['Dean', 'Sam', 'Ben', 'David']
+toshiba = eleks.copy()
+eleks.clear()
+print(mapex, eleks, toshiba)
